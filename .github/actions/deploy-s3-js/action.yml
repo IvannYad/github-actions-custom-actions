@@ -1,0 +1,5 @@
+name: Deploy To Aws S3
+description: Dummy description
+runs:
+  using: node16
+  main: main.js
